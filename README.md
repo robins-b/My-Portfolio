@@ -1,3 +1,3 @@
 # My Portfolio Website (HTML CSS Project)
 
-![Preview](./img/portfolio.png)
+![Preview](https://raw.githubusercontent.com/robins-b/My-Portfolio/main/img/portfolio.png)
