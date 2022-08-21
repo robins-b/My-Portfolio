@@ -15,4 +15,4 @@
 - I have learnt the importance of mobile responsive design from this project.
 
 ## Time taken
-- It took me 8 hours to finish this project.
+- It took me 8 hours to finish this project.6
